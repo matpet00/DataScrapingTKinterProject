@@ -1,7 +1,7 @@
 <h1>Project Title: Financial Data Scraper, Visualization, & Export Tool </h1>
 Overview:
-This OOP Python-based  Demo project presents a comprehensive demo solution for extracting dividend-related financial data from specified websites, manipulating and visualizing the data, and exporting it to Excel files.<br>
-Leveraging Selenium for web scraping, Pandas for data manipulation, Tkinter for the graphical user interface (GUI), and Matplotlib for data visualization, this tool streamlines the entire process of data extraction, analysis, and exportation.
+This OOP Python-based  Demo project presents a comprehensive demo solution for extracting dividend-related financial data from specified website, manipulating and visualizing the data, and exporting it to Excel files.<br>
+Leveraging Selenium for web scraping, Pandas for data manipulation, Tkinter for the graphical user interface (GUI), and Matplotlib for data visualization, this tool streamlines the entire process of data extraction, analysis, and exportation. Form is designed using Figma and TKinter designer.
 <br>
 <h2>Key Components & Functionalities: </h2>
 
