@@ -29,7 +29,8 @@ Implements a Tkinter-based graphical user interface (GUI) for user interaction.
 Offers functionalities to trigger data scraping, display tables into pandastable that provide further analysis options, visualize financial data through charts, and export data to Excel files effortlessly. Integrates with other classes.
 
 <h3>Purpose:</h3>
-This project aims to simplify the entire process of extracting dividend-related financial data from web sources, handling, visualizing, and exporting it to Excel files. The tool provides a user-friendly interface for users to scrape, analyze, visualize, and export financial data seamlessly.
+This demo project aims to simplify the entire process of extracting dividend-related financial data from targeted website, handling, visualizing, and exporting it to Excel files. The tool provides a user-friendly interface for users to scrape, analyze, visualize, and export financial data seamlessly.
+Purpose is to showcase skills for future employment.
 
 <h3>Disclaimer:</h3>
 I dont own the data from the targeted web and they are used in small scale and just to showcase programming skills.
