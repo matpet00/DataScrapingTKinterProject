@@ -26,7 +26,7 @@ Generates graphical representations (e.g., bar charts) based on the financial da
 <h3>DemoApp Class (GUI)</h3> 
 
 Implements a Tkinter-based graphical user interface (GUI) for user interaction.
-Offers functionalities to trigger data scraping, display tables into pandastable, visualize financial data through charts, and export data to Excel files effortlessly. Integrates with other classes.
+Offers functionalities to trigger data scraping, display tables into pandastable that provide further analysis options, visualize financial data through charts, and export data to Excel files effortlessly. Integrates with other classes.
 
 <h3>Purpose:</h3>
 This project aims to simplify the entire process of extracting dividend-related financial data from web sources, handling, visualizing, and exporting it to Excel files. The tool provides a user-friendly interface for users to scrape, analyze, visualize, and export financial data seamlessly.
